@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body style="background-color:powderblue;">
+
+<h1 style="text-align:center;" <h1 style= "color:blue;">  Welcome To My Site!!</h1>
+<p> <h2> <h1 style= "color:#0099ff;"> Here, you will learn all about me, and also a look into my
+coding skills, through this website!</h1> </h2> </p>
+<hr>
+
+<h2> Me:</h2>
+<img src="img_me.jpg" alt= "Me" width="104" height="142">
+
+<button> Click Me! </button>
+
+<h2> I am Montserrat Ruiz, a current college Sophmore attendng Los Angeles City college,
+  pursuing a Bachelors Degree in English, with an emphasis on Communication Studies,
+  and hopefully I will have earned two Minors in Art and Computer Science.</h2>
+
+  <p><h3> A litle bit of facts about me that you should know are that my hobbies involve learning how to code
+    , making art on Procreate or with alcohol markers. My ultimate goal in this world, is to show people that
+    despite being a person born with a disability, I can still puruse a degree, work hard on any task,
+    and be able to acomplish anything a person without a disbaility can.
+      </h3></p2>
+
+<a href= "https://www.linkedin.com/in/montserrat-r-116699168/">Check out my
+  linkedin and see what else I've been up to!</a>
+</h2>
+
+</body>
+</html>
